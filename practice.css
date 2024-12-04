@@ -1,0 +1,24 @@
+body{
+    background-image: url(wall.jpg);
+    
+    
+}
+footer{
+    background-color: black;
+}
+h6{
+    color: brown;
+}
+.profile{
+    border-radius: 60%;
+    margin-left: 600px;
+}
+h5{
+    color: blueviolet;
+    text-align: center;
+    text-shadow: 0cqmax;
+}
+h1{
+    text-align: center;
+    color: red;
+}
